@@ -1,0 +1,2 @@
+Date (dd/mm/yyyy),Hour (0-23),Temperature in C,Humidity (%),Wind Speed (m/s),Visibility (10m),Solar Radiation (MJ/m2),Rainfall (mm),Snowfall (cm),Seasons,Holiday,Functioning Day,output,flag,username,timestamp
+10/10/2024,8,7.1,20.5,12.9,1680,24.9,14,37.5,Autumn,No Holiday,Yes,,,,2024-08-19 00:02:40.482121
