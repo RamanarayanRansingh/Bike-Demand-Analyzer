@@ -33,9 +33,9 @@ We're not just guessing based on how many coffees the city has collectively cons
 
 | Metric | Score | In Human Speak |
 |--------|-------|----------------|
-| MAE | X.XX | We're off by fewer bikes per hour than you have fingers! |
-| RMSE | Y.YY | Our hourly predictions are smoother than a bike's cadence meter |
-| R² | 0.ZZ | We're explaining more hourly variance than there are minutes on a clock face |
+| MAE | 2.04 | We're off by fewer bikes per hour than you have fingers! |
+| RMSE | 3.15 | Our hourly predictions are smoother than a bike's cadence meter |
+| R² | 0.94 | We're explaining more hourly variance than there are minutes on a clock face |
 
 ## 🎭 The Cast of Hourly Predictors
 
